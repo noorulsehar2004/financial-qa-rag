@@ -62,5 +62,4 @@ at the end of the notebook.
 
 - `RAGFoundation_FinancialDocuments.ipynb` — full notebook, code + results + write-up
 - `financial_qa_index.faiss` — saved FAISS vector index (1,345 chunks across 3 filings)
-- Chunk/metadata pickle file not included here due to size — regenerate via the notebook's
-  ingestion cells, or request separately.
+
