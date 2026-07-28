@@ -3,9 +3,11 @@
 A bot that answers real questions about real SEC 10-K filings, with citations to the exact
 filing and section — and correctly declines instead of guessing when it doesn't know.
 
-**Dataset:** Apple, Microsoft, and Tesla 10-K filings, pulled directly from [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar).
+**Dataset:** Apple, Microsoft, and Tesla 10K filings, pulled directly from [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar).
 
 ---
+**Demo:** https://drive.google.com/file/d/1M3qU5V1RL3P4Mssa3eEruxao0nVRswyU/view?usp=sharing
+
 
 ## What's in this notebook
 
